@@ -54,3 +54,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
+
+# Required for action text image attachment
+gem 'image_processing', '~> 1.2'
